@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Monopoly-Property-Service" />
+        <module name="Monopoly-Leader-Service" />
+        <module name="Monopoly-Notification-Service" />
+        <module name="Monopoly-Infra-Service" />
+        <module name="Monopoly-GameRoom-Service" />
+        <module name="Monopoly-Chat-Service" />
+        <module name="Monopoly-Card-Service" />
+      </profile>
+      <profile name="Annotation profile for Monopoly-gateway" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+        </processorPath>
+        <module name="Monopoly-Player-Service" />
+        <module name="Monopoly-gateway" />
+        <module name="Monopoly-Identity-Service" />
+        <module name="Monopoly-GameEngine-Service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Monopoly-Card-Service" options="-parameters" />
+      <module name="Monopoly-Chat-Service" options="-parameters" />
+      <module name="Monopoly-GameEngine-Service" options="-parameters" />
+      <module name="Monopoly-GameRoom-Service" options="-parameters" />
+      <module name="Monopoly-Identity-Service" options="-parameters" />
+      <module name="Monopoly-Infra-Service" options="-parameters" />
+      <module name="Monopoly-Leader-Service" options="-parameters" />
+      <module name="Monopoly-Notification-Service" options="-parameters" />
+      <module name="Monopoly-Player-Service" options="-parameters" />
+      <module name="Monopoly-Property-Service" options="-parameters" />
+      <module name="Monopoly-gateway" options="-parameters" />
+    </option>
+  </component>
+</project>

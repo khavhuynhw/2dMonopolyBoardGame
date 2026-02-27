@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Monopoly-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Monopoly-Player-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Monopoly-Identity-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Monopoly-GameRoom-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Monopoly-GameEngine-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Monopoly-Property-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Monopoly-Card-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Monopoly-Notification-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatService/pom.xml" />
+        <option value="$PROJECT_DIR$/Monopoly-Leader-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Monopoly-Infra-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Monopoly-Chat-Service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
