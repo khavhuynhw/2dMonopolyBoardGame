@@ -5,12 +5,12 @@
     <file url="file://$PROJECT_DIR$/Monopoly-Chat-Service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Monopoly-GameEngine-Service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Monopoly-GameRoom-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Monopoly-Gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Monopoly-Identity-Service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Monopoly-Infra-Service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Monopoly-Leader-Service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Monopoly-Notification-Service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Monopoly-Player-Service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Monopoly-Property-Service/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Monopoly-gateway/src/main/java" charset="UTF-8" />
   </component>
 </project>

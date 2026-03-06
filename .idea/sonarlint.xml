@@ -4,6 +4,7 @@
     <option name="moduleMapping">
       <map>
         <entry key="Monopoly-Chat-Service" value="ChatService" />
+        <entry key="Monopoly-Gateway" value="Monopoly-gateway" />
       </map>
     </option>
   </component>

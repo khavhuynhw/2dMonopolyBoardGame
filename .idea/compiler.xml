@@ -14,7 +14,7 @@
         <module name="Monopoly-Chat-Service" />
         <module name="Monopoly-Card-Service" />
       </profile>
-      <profile name="Annotation profile for Monopoly-gateway" enabled="true">
+      <profile name="Annotation profile for Monopoly-Player-Service" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -22,7 +22,7 @@
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
         </processorPath>
         <module name="Monopoly-Player-Service" />
-        <module name="Monopoly-gateway" />
+        <module name="Monopoly-Gateway" />
         <module name="Monopoly-Identity-Service" />
         <module name="Monopoly-GameEngine-Service" />
       </profile>
@@ -34,13 +34,13 @@
       <module name="Monopoly-Chat-Service" options="-parameters" />
       <module name="Monopoly-GameEngine-Service" options="-parameters" />
       <module name="Monopoly-GameRoom-Service" options="-parameters" />
+      <module name="Monopoly-Gateway" options="-parameters" />
       <module name="Monopoly-Identity-Service" options="-parameters" />
       <module name="Monopoly-Infra-Service" options="-parameters" />
       <module name="Monopoly-Leader-Service" options="-parameters" />
       <module name="Monopoly-Notification-Service" options="-parameters" />
       <module name="Monopoly-Player-Service" options="-parameters" />
       <module name="Monopoly-Property-Service" options="-parameters" />
-      <module name="Monopoly-gateway" options="-parameters" />
     </option>
   </component>
 </project>
